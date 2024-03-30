@@ -1,4 +1,4 @@
-# Desafio1_JS-IntroJavaScript
+# Contador-Desafio1_JS-IntroJavaScript
 
 Este trabajo es de índole académico, del módulo Introduccion a Java Script en mi paso por la Academia Desafío Latam.
 

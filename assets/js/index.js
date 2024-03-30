@@ -1,3 +1,4 @@
+total = 0;
 precio = 400000;
 
 precioSpan = document.querySelector(".precio-inicial");

@@ -1,6 +1,6 @@
 # Desafio1_JS-IntroJavaScript
 
-Este trabajo es de índole académico, del módulo Introduccion a Java Script.
+Este trabajo es de índole académico, del módulo Introduccion a Java Script en mi paso por la Academia Desafío Latam.
 
 ## Descripción 
 
